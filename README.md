@@ -1,24 +1,12 @@
-# README
+## RESTful API with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is contain a sample RESTful API with Rails. 
 
-Things you may want to cover:
+To running this API you needs:
+- Ruby with version 2.7.2 or higher
+- Rails 6.0.3 or higher
 
-* Ruby version
+Another dependencies available in Gemfile, feel free if you want to modification.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run this command to execute the specs 
+``$ bundle exec rspec``
